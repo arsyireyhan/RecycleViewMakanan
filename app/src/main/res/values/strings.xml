@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">RecycleViewMakanan</string>
+    <string-array name="makanan">
+        <item>capcay</item>
+        <item>dimsum</item>
+        <item>fuyunghai</item>
+        <item>gyoza</item>
+        <item>ifumie</item>
+        <item>kwetiaw</item>
+        <item>lumpia</item>
+        <item>miegoreng</item>
+        <item>nasigoreng</item>
+        <item>risoles</item>
+    </string-array>
+
+    <string-array name="deskripsi">
+        <item>chinese vegetable soup</item>
+        <item>dumplings</item>
+        <item>chinese omelette with sweet sour sauce</item>
+        <item>japanese chicken dumpling</item>
+        <item>dry noodles</item>
+        <item>kwetiau noodles</item>
+        <item>spring roll</item>
+        <item>fried noodles</item>
+        <item>fried rice</item>
+        <item>asian croquette</item>
+    </string-array>
+
+</resources>
